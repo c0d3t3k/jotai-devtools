@@ -35,7 +35,7 @@ const App: React.FC = () => {
 
     const [count, setCount] = useAtom(countAtom)
 
-    // This hook maps the "Count Atom (Hook)" devtools instance to countAtom.
+    // This hook maps the "Count Atom (Hook)" devtools instance to `countAtom`.
     useJotaiDevtools({
         name: "Count Atom (Hook)",
         atom: countAtom
@@ -90,7 +90,7 @@ const App: React.FC = () => {
     // The React component tree.
     return (
         <>
-            {/* This component maps the "Count Atom (Component)" devtools instance to countAtom. */}
+            {/* This component maps the "Count Atom (Component)" devtools instance to `countAtom`. */}
             <JotaiDevtools atom={countAtom} name="Count Atom (Component)"/>
 
             <div>

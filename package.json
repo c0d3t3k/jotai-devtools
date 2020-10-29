@@ -1,7 +1,7 @@
 {
   "name": "@c0d3t3k/jotai-devtools",
   "version": "0.10.1",
-  "description": "A template for publishing a React + TypeScript package to npm",
+  "description": "Redux Devtools integrations for jotai.",
   "author": "c0d3t3k",
   "license": "MIT",
   "repository": "c0d3t3k/jotai-devtools",
