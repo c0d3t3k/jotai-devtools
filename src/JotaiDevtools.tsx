@@ -1,7 +1,7 @@
 // import * as R from 'ramda';
 
 import { useAtom, WritableAtom } from 'jotai'
-import { Observable, Subject, from, of } from 'rxjs';
+import { Observable, Subject, of } from 'rxjs';
 import { map, switchMap, filter, catchError } from 'rxjs/operators';
 import { useObservable, useSubscription } from 'observable-hooks'
 
