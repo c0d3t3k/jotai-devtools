@@ -1,5 +1,7 @@
 # Jotai Devtools
 
+![Sample GIF](https://github.com/c0d3t3k/jotai-devtools/raw/master/assets/JotaiTaskDevTools.gif)
+
 ## About
 
 [Redux Devtools](https://github.com/reduxjs/redux-devtools) integration for [Jotai](https://github.com/pmndrs/jotai). This library only supports the Redux Devtools browser extensions ([Chrome](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd), [Edge](https://microsoftedge.microsoft.com/addons/detail/redux-devtools/nnkgneoiohoecpdiaponcejilbhhikei) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/reduxdevtools/)). It does not currently support the standalone app or the embedded component.
