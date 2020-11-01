@@ -4,6 +4,14 @@
 
 [Redux Devtools](https://github.com/reduxjs/redux-devtools) integration for [Jotai](https://github.com/pmndrs/jotai). This library only supports the Redux Devtools browser extensions ([Chrome](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd), [Edge](https://microsoftedge.microsoft.com/addons/detail/redux-devtools/nnkgneoiohoecpdiaponcejilbhhikei) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/reduxdevtools/)). It does not currently support the standalone app or the embedded component.
 
+## Installation
+
+NPM Package is coming soon. In the meantime, use the following to install:
+
+```shell
+yarn add https://github.com/c0d3t3k/jotai-devtools.git
+```
+
 ## How to use
 
 The Jotai Devtools library creates devtools integration instances on an [atom](https://github.com/pmndrs/jotai/blob/master/docs/core.md#atom) by atom basis. To create a devtools instance, two parameters are required:
