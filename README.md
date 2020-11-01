@@ -28,7 +28,7 @@ The Jotai Devtools library creates devtools integration instances on an [atom](h
 }
 ```
 
-Also see the [Dev.to Article](https://dev.to/c0d3t3k/recoil-vs-jotai-using-typescript-4678) and [Sample Code](https://github.com/c0d3t3k/joeflix/tree/jotai).
+Also see the [Dev.to Article](https://dev.to/c0d3t3k/recoil-vs-jotai-using-typescript-4678), [Sample Code](https://github.com/c0d3t3k/joeflix/tree/jotai) amd [CodeSandBox](https://codesandbox.io/s/happy-shockley-35roh)
 
 The library provides two methods to enable a devtools instance:
 
